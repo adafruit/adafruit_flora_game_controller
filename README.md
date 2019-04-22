@@ -1,4 +1,6 @@
-Example code for a Flora game controller with capacitive touch sensing! Full tutorial and video:
+## This repo has been archived
+
+This archive contains example code for a Flora game controller with capacitive touch sensing! Full tutorial and video:
 
 http://learn.adafruit.com/plush-game-controller/
 
@@ -13,4 +15,5 @@ Uses Modern Device's Capacitive Sensing library: https://github.com/moderndevice
 
 -------------------------------------
 
-To download, click the ZIP button on the Github page, rename the uncompressed folder adafruit_flora_game_controller.
+Please see the current repo at https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Flora_Game_Controller 
+for the latest code.
